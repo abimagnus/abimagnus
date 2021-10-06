@@ -1,10 +1,7 @@
 ### Hi there 👋 My Name is Abilash a simple Tech Enthusiast who loves Android,Linux and Opensource. Love the devOps stuff but not a developer :D
 
-**abimagnus/abimagnus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+*“Technology is nothing. What’s important is that you have a faith in people, that they’re basically good and smart, and if you give them tools, they’ll do wonderful things with them.” – Steve Jobs*
 
 - 🌱 I’m currently learning DevOps
 - 👯 I’m looking to collaborate on OpenSource Projects
-- 📫 How to reach me: reach me 
 - 😄 Pronouns: He/Positive 
